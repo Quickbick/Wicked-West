@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{f80c6a3c-a56c-4939-b326-5c2a70ca837f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{f419d2ea-ad47-bf82-9384-e895a73b85bc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC", "QFSW.QC.csproj", "{fd5ddd2b-709f-1089-cf0a-837fc1311af2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.Extras", "QFSW.QC.Extras.csproj", "{006676b7-b2d9-1ed9-ae66-b12766b1bffa}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.Suggestors", "QFSW.QC.Suggestors.csproj", "{bb4e2662-91f1-9997-acf9-582dbfe167eb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.Grammar", "QFSW.QC.Grammar.csproj", "{5654f6d3-7dd7-47e9-174e-371def96353e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.Editor", "QFSW.QC.Editor.csproj", "{4ef84ba5-231e-12f1-f531-be5d4b8d9b78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.Parsers", "QFSW.QC.Parsers.csproj", "{8c22630b-5786-3189-91c5-da4a86c88a24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.QGUI", "QFSW.QC.QGUI.csproj", "{0266a218-166b-bd02-bc85-20e56f280178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.Editor.Tools", "QFSW.QC.Editor.Tools.csproj", "{6362ff20-9794-b416-9265-3c22293601a0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.UI", "QFSW.QC.UI.csproj", "{4e847ac8-d912-9059-c567-057324e81e1c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.ScanRules", "QFSW.QC.ScanRules.csproj", "{4bdc9a1d-0dcb-8576-6b67-f4f159f74264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.Serializers", "QFSW.QC.Serializers.csproj", "{a6b4d81b-f1fa-d4da-8fbb-a0f2cb40001d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFSW.QC.Demo", "QFSW.QC.Demo.csproj", "{b09ba2ae-260e-832b-fb05-b4e9766f57e0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestS", "TestS.csproj", "{6e3bb3cd-e4bb-5ff4-abe9-4049fa232616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f80c6a3c-a56c-4939-b326-5c2a70ca837f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f80c6a3c-a56c-4939-b326-5c2a70ca837f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f419d2ea-ad47-bf82-9384-e895a73b85bc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f419d2ea-ad47-bf82-9384-e895a73b85bc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fd5ddd2b-709f-1089-cf0a-837fc1311af2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fd5ddd2b-709f-1089-cf0a-837fc1311af2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006676b7-b2d9-1ed9-ae66-b12766b1bffa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006676b7-b2d9-1ed9-ae66-b12766b1bffa}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bb4e2662-91f1-9997-acf9-582dbfe167eb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bb4e2662-91f1-9997-acf9-582dbfe167eb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5654f6d3-7dd7-47e9-174e-371def96353e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5654f6d3-7dd7-47e9-174e-371def96353e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ef84ba5-231e-12f1-f531-be5d4b8d9b78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ef84ba5-231e-12f1-f531-be5d4b8d9b78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8c22630b-5786-3189-91c5-da4a86c88a24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8c22630b-5786-3189-91c5-da4a86c88a24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0266a218-166b-bd02-bc85-20e56f280178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0266a218-166b-bd02-bc85-20e56f280178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6362ff20-9794-b416-9265-3c22293601a0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6362ff20-9794-b416-9265-3c22293601a0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4e847ac8-d912-9059-c567-057324e81e1c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4e847ac8-d912-9059-c567-057324e81e1c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4bdc9a1d-0dcb-8576-6b67-f4f159f74264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4bdc9a1d-0dcb-8576-6b67-f4f159f74264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a6b4d81b-f1fa-d4da-8fbb-a0f2cb40001d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a6b4d81b-f1fa-d4da-8fbb-a0f2cb40001d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b09ba2ae-260e-832b-fb05-b4e9766f57e0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b09ba2ae-260e-832b-fb05-b4e9766f57e0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6e3bb3cd-e4bb-5ff4-abe9-4049fa232616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6e3bb3cd-e4bb-5ff4-abe9-4049fa232616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

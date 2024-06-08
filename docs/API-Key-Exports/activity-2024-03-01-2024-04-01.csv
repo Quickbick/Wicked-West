@@ -1,0 +1,7 @@
+organization_id,organization_name,operation,n_context_tokens_total,n_generated_tokens_total,api_key_id,api_key_name,api_key_redacted,usage_type,model,timestamp,user,num_requests
+org-waI3bSGCHO94EqhzBPkEeD4a,Personal,completion,1220,158,,,,text,gpt-3.5-turbo-0125,1709424000,werealljust1rlybadday@gmail.com,6
+org-waI3bSGCHO94EqhzBPkEeD4a,Personal,completion,12357,1180,,,,text,gpt-3.5-turbo-0125,1709769600,werealljust1rlybadday@gmail.com,40
+org-waI3bSGCHO94EqhzBPkEeD4a,Personal,completion,2201,190,,,,text,gpt-3.5-turbo-0125,1710028800,werealljust1rlybadday@gmail.com,7
+org-waI3bSGCHO94EqhzBPkEeD4a,Personal,completion,2410,350,,,,text,gpt-3.5-turbo-0125,1710892800,werealljust1rlybadday@gmail.com,15
+org-waI3bSGCHO94EqhzBPkEeD4a,Personal,completion,4149,458,,,,text,gpt-3.5-turbo-0125,1711152000,werealljust1rlybadday@gmail.com,18
+org-waI3bSGCHO94EqhzBPkEeD4a,Personal,completion,31169,3182,,,,text,gpt-3.5-turbo-0125,1711497600,werealljust1rlybadday@gmail.com,130
