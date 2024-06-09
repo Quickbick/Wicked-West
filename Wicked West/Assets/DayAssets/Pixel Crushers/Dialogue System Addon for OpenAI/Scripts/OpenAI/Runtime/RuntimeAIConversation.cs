@@ -102,7 +102,7 @@ namespace PixelCrushers.DialogueSystem.OpenAIAddon
                 Debug.Log("Dialogue System: You must first set an OpenAI API key on the RuntimeAIConversationSettings component.", Settings);
                 Debug.Log("Setting to primary key now");
 
-                string primaryKey = "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";
+                string primaryKey = "";
                 Settings.APIKey = primaryKey;
 
                 Debug.Log("Primary key set: " + primaryKey);
